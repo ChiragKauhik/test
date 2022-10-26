@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://media.tenor.com/lBBQS4jyqPIAAAAd/zyzz-flex.gif');
+    background-size: cover;
+}
